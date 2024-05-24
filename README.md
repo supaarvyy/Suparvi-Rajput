@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supaarvyy
+- 👋 Hi, I’m @suparvi
 - 👀 I’m interested in my work that I do.
 - 🌱 I’m currently learning C++ and Webdevelops.
 - 💞️ I’m looking to collaborate on ...
